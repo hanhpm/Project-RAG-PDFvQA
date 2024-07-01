@@ -1,9 +1,6 @@
-Sure, here's the README content in English:
-
-```markdown
 # Project-RAG-PDFvQA
 
-This project aims to apply RAG (Retrieval-Augmented Generation) in retrieving knowledge base from PDFs to answer questions.
+This project aims to apply RAG (Retrieval-Augmented Generation) in retrieving the knowledge base from PDFs to answer questions.
 
 ## Running the Notebook
 
@@ -22,7 +19,7 @@ To run the notebook, follow these steps:
 3. Install the required libraries listed in the `requirements.txt` file.
 4. Run each cell in the notebook sequentially.
 
-We hope you succeed in running the notebook in both environments. Good luck!
-```
+We hope you'll be able to run the notebook in both environments. Good luck!
+
 
 
